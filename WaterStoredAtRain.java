@@ -1,4 +1,4 @@
-*/
+/*
 problem statement :   Calculate the amount of water stored between buidins during rain.
 ......INPUT............
 N : no of buildings
